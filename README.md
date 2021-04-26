@@ -1,5 +1,5 @@
 👋 Hi, I’m GamerBoy543
- - I’m currently learning PHP
+ - I’m currently learning PHP and JS
 
  ### Tools
  <img alt="PhpStorm" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/PhpStorm_Icon.png" width="50" height="50"></img>
