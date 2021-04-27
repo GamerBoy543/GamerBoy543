@@ -17,6 +17,6 @@
  <!-- <img alt="" src="" width="50" height="50"></img> -->
 
  ### Server Developer
-  - GamingSucht
+  - MintexMC
   - LeyKeyGames
   - VulcanoMC
