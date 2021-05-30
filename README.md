@@ -14,7 +14,7 @@
  ### Languages
  <img alt="PHP" src="https://www.php.net/images/logos/new-php-logo.svg" width="50" height="50"></img>
  <img alt="Node JS" src="https://cdn.iconscout.com/icon/free/png-512/node-js-1174925.png" width="50" height="50"></img>
-  <img alt="HTML" src="https://de.wikipedia.org/wiki/HTML5#/media/Datei:HTML5_logo_and_wordmark.svg" width="50" height="50"></img>
+  <img alt="HTML" src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" width="50" height="50"></img>
  <!-- <img alt="" src="" width="50" height="50"></img> -->
 
  ### Server Developer
