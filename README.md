@@ -18,8 +18,6 @@
  <!-- <img alt="" src="" width="50" height="50"></img> -->
 
  ### Server Developer
-  - MintexMC
   - LeyKeyGames
-  - VulcanoMC
 
 ![IMAGE#001](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerBoy543&hide=shell)
