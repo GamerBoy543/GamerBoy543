@@ -1,9 +1,6 @@
 👋 Hi, I’m GamerBoy543
  - I’m currently learning PHP and JS
 
- # What do you find on my github?
- - You can find cool plugins for your server
-
  ### Tools
  <img alt="Visual Studio Code" src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="50" height="50"></img>
  <img alt="PhpStorm" src="https://upload.wikimedia.org/wikipedia/commons/d/d2/PhpStorm_Icon.png" width="50" height="50"></img>
@@ -19,6 +16,6 @@
  <!-- <img alt="" src="" width="50" height="50"></img> -->
 
  ### Server Developer
-  - LeyKeyGames
+  - CrystalCube
 
 ![IMAGE#001](https://github-readme-stats.vercel.app/api/top-langs/?username=GamerBoy543&hide=shell)
